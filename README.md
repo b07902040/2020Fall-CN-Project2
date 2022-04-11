@@ -1,7 +1,7 @@
 # 2020Fall-CN-project2
 Computer Network - Retransmission &amp; Congestion Control
 ## How to execute
-```
+```shell
 make agent
 make receiver
 make server
